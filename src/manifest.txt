@@ -1,0 +1,1 @@
+Main-Class: gg.compile.calc.SubtractPercentageCalculator
